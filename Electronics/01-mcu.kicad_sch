@@ -4,6 +4,13 @@
 
   (paper "A4")
 
+  (title_block
+    (title "01- Springy -- MCU")
+    (date "2023-04-29")
+    (rev "1")
+    (company "Jiří \"b1u3-22\" Sedlák")
+  )
+
   (lib_symbols
   )
 
