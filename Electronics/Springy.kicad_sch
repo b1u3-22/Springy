@@ -179,7 +179,7 @@
     (stroke (width 0.1524) (type solid))
     (fill (color 0 0 0 0.0000))
     (uuid 31231459-3631-4423-9a6a-d263699bed9a)
-    (property "Sheetname" "Battery manager" (at 143.51 121.2084 0)
+    (property "Sheetname" "Battery management" (at 143.51 121.2084 0)
       (effects (font (size 1.27 1.27) bold) (justify left bottom))
     )
     (property "Sheetfile" "04-bm.kicad_sch" (at 143.51 135.2046 0)
