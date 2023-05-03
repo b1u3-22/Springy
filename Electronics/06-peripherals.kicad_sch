@@ -5,6 +5,7 @@
   (paper "A4")
 
   (title_block
+    (title "06 - Springy -- Peripherals")
     (date "2023-05-03")
     (rev "1")
     (company "Jiří \"b1u3-22\" Sedlák")
