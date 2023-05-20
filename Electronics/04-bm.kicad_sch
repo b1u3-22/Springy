@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "05 - Springy -- Battery management")
+    (title "04 - Springy -- Battery management")
     (date "2023-05-03")
     (rev "1")
     (company "Jiří \"b1u3-22\" Sedlák")
