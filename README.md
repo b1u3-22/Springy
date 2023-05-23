@@ -22,6 +22,11 @@
 * Settable driver voltage ranging from **5V to 16V**
 * USB-C with PD control  
 
+# 🌍 Multi-language setup
+
+* This repository has most of the documents translated in Czech and English with the only exception for now being the schematics, which will only be in English
+* Files translated into Czech have `.cz` appended to the file name
+
 # 🧭 Repository map
 
 ## 🎨 Assets
