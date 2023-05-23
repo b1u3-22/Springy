@@ -22,7 +22,7 @@
 * Nastavitelné napětí motorů **5V - 16V**
 * USB-C s kontrolou PD  
 
-# 🧭 Repository map
+# 🧭 Mapa repozitáře
 
 ## 🎨 Assets
 
