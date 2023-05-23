@@ -9,5 +9,5 @@
 * Exported gerber files
 
 <p align="center">
-    🇨🇿 Českou verzi můžete najít <a href="Electronics/README.cz.md">zde</a>
+    🇨🇿 Českou verzi můžete najít <a href="README.cz.md">zde</a>
 </p>
